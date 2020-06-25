@@ -1,0 +1,32 @@
+! Title: Dedicated AD Rules
+! Version: 0.0.0.1
+! TimeUpdated: 2020-06-26T22:38:00+03:00
+||m.g71i1.cn^$domain=aikanshuba.net
+||zz.bdstatic.com^$domain=aikanshuba.net
+||www.jsgo979.com^$domain=javlibrary.com
+@@||microsoft.com^$document
+||m.allluck.cn^$domain=shu05.com
+||www.zmtiantang.cc/static/alltj.js
+zmtiantang.cc##a[href^="https://s.click.taobao.com"]
+||js.safe524.xyz^$domain=aikanshu8.com
+||m.ui46g.cn^$domain=aikanshu8.com
+||pv.sohu.com^$domain=aikanshu8.com
+||zz.bdstatic.com^$domain=aikanshu8.com
+||js.users.51.la/19749253.js
+||m.aikanshu8.com/novel/images/1678767yashhsdfff.gif
+||m.hpwvl.cn^$domain=hebao9.com
+bilibili.com###slide_ad
+@@||my.freenom.com^$document
+||wx.sifakaoshi360.com^$domain=manhuatao.com
+manhuatao.com###AKCRCYAA
+||xn--wxtr9fwyxk9c.xn--io0a7i^$domain=manhuatao.com
+@@||xunlei.com^$document
+macgn.com##a[href="https://www.macgn.com/archives/9310"]
+macgn.com##a[href="https://m.vmall.com/product/10086811807933.html?cid=104597&mz_ca=2145472&mz_sp=7UeXT&mz_sb=1"]
+macgn.com##a[href="https://shop484483338.taobao.com/shop/view_shop.htm?tracelog=twddp&user_number_id=2613446330"]
+@@||speedfly.cn^$document
+bilibili.com##.banner-card b-wrap
+@@||www.wnacg.com/download-index-aid-*.html^$elemhide
+||www.34jthg.info^
+||aisid.space^
+wnacg.org##div[class="sh"]
